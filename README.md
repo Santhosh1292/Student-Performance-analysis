@@ -24,3 +24,7 @@ After testing multiple models:
 - **Random Forest & XGBoost** provided the best accuracy  
 - **Feature Importance Analysis** showed that attendance rate & study hours significantly affect performance  
 - **Mean Absolute Error (MAE)** is optimized for better predictions  
+  
+![Screenshot (60)](https://github.com/user-attachments/assets/b3e84c30-abf6-4498-bddd-4d6587963b82)
+![Screenshot (62)](https://github.com/user-attachments/assets/8e9aee77-2a63-4612-96a9-038fb3631caa)
+![Screenshot (61)](https://github.com/user-attachments/assets/adec5647-67c3-4a1f-be15-47f60e3927f0)
